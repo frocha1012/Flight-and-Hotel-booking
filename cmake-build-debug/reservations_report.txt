@@ -1,0 +1,6 @@
+Reservations Report:
+ID | User | Flight | Hotel | Status
+1007 | user | 1023 | 0 | Rejected
+1005 | user1 | 1023 | 0 | Approved
+1003 | user | 0 | 22 | Approved
+1001 | user | 1023 | 0 | Approved

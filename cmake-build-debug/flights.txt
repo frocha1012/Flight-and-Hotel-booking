@@ -1,0 +1,23 @@
+1001|New York|London|08:00|20:00|200
+1002|Berlin|Paris|09:30|10:45|150
+1003|Sydney|Tokyo|22:00|06:50|180
+1004|Istanbul|Moscow|11:00|14:30|160
+1005|Cairo|Dubai|13:00|17:00|140
+1006|Madrid|Rome|07:15|09:20|165
+1007|Toronto|Miami|17:45|21:05|175
+1008|San Francisco|Seattle|12:00|14:00|190
+1009|Bangkok|Hong Kong|21:00|00:30|210
+1010|São Paulo|Lima|10:00|14:00|130
+1011|Mexico City|Havana|19:00|21:30|120
+1012|Amsterdam|Barcelona|16:00|18:20|200
+1013|Los Angeles|Las Vegas|09:00|10:00|300
+1014|Beijing|Shanghai|13:00|15:30|250
+1015|Lisbon|Frankfurt|14:00|17:40|140
+1016|Melbourne|Perth|08:00|10:25|160
+1017|Cape Town|Johannesburg|06:30|08:15|180
+1018|Kuala Lumpur|Jakarta|22:30|23:50|190
+1019|Vienna|Prague|11:00|12:20|170
+1020|Oslo|Copenhagen|18:00|19:00|190
+1021|Punta Cana|Algarve|10:00|14:00|100
+1022|Lisboa|Menorca|7:00|10:00|100
+1023|Porto|Teste|19:00|20:00|1

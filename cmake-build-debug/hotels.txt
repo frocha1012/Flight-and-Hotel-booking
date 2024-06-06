@@ -1,0 +1,22 @@
+1|The Grand Stay|New York|50
+2|Ocean View Resort|Maldives|30
+3|Mountain Retreat|Swiss Alps|25
+4|Urban Hotel Tokyo|Tokyo|120
+5|Safari Lodge|Kenya|40
+6|Lake House|Lake Tahoe|35
+7|Desert Palace|Dubai|45
+8|Royal Paris Hotel|Paris|70
+9|Island Escape|Fiji|20
+10|Venetian Dreams|Venice|55
+11|Historic Inn Berlin|Berlin|60
+12|Beachfront Villa|Barbados|25
+13|Skyline Modern|Shanghai|100
+14|Northern Lights Hotel|Iceland|30
+15|Rainforest Bungalows|Amazon|15
+16|Glacier Base Camp|Greenland|20
+17|Opera House Hotel|Sydney|80
+18|Art Hotel Lisbon|Lisbon|50
+19|Summit Chalet|Rocky Mountains|22
+20|Coral Reef Resort|Great Barrier Reef|28
+21|Hotel Fonte Velha|Ponte da Barca|27
+22|Casa Reis|Ponte da Barca|16

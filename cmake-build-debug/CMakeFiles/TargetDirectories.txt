@@ -1,0 +1,3 @@
+C:/Users/froch/CLionProjects/reservas/cmake-build-debug/CMakeFiles/reservas.dir
+C:/Users/froch/CLionProjects/reservas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/froch/CLionProjects/reservas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
